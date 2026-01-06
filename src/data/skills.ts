@@ -25,8 +25,8 @@ export const skillsData: Skill[] = [
 		description: "Web markup language for structuring web pages.",
 		icon: "logos:html-5",
 		category: "frontend",
-		level: "intermediate",
-		experience: { years: 0, months: 12 },
+		level: "beginner",
+		experience: { years: 0, months: 3 },
 		color: "#E34F26",
 	},
 	{
@@ -35,8 +35,8 @@ export const skillsData: Skill[] = [
 		description: "Styling language for web pages, including modern CSS features.",
 		icon: "logos:css-3",
 		category: "frontend",
-		level: "intermediate",
-		experience: { years: 0, months: 12 },
+		level: "beginner",
+		experience: { years: 0, months: 3 },
 		color: "#1572B6",
 	},
 	{
@@ -45,8 +45,8 @@ export const skillsData: Skill[] = [
 		description: "Modern JavaScript development, including ES6+ syntax and asynchronous programming.",
 		icon: "logos:javascript",
 		category: "frontend",
-		level: "intermediate",
-		experience: { years: 0, months: 10 },
+		level: "beginner",
+		experience: { years: 0, months: 3 },
 		color: "#F7DF1E",
 	},
 	{
@@ -56,7 +56,7 @@ export const skillsData: Skill[] = [
 		icon: "logos:typescript-icon",
 		category: "frontend",
 		level: "beginner",
-		experience: { years: 0, months: 6 },
+		experience: { years: 0, months: 2 },
 		color: "#3178C6",
 	},
 	{
@@ -65,8 +65,8 @@ export const skillsData: Skill[] = [
 		description: "Progressive JavaScript framework, including Vue 3 composition API.",
 		icon: "logos:vue",
 		category: "frontend",
-		level: "intermediate",
-		experience: { years: 0, months: 8 },
+		level: "beginner",
+		experience: { years: 0, months: 2 },
 		color: "#4FC08D",
 	},
 	{
@@ -75,8 +75,8 @@ export const skillsData: Skill[] = [
 		description: "Popular CSS framework for responsive web design.",
 		icon: "logos:bootstrap",
 		category: "frontend",
-		level: "intermediate",
-		experience: { years: 0, months: 8 },
+		level: "beginner",
+		experience: { years: 0, months: 3 },
 		color: "#7952B3",
 	},
 
@@ -88,7 +88,7 @@ export const skillsData: Skill[] = [
 		icon: "logos:python",
 		category: "backend",
 		level: "intermediate",
-		experience: { years: 0, months: 12 },
+		experience: { years: 0, months: 4 },
 		color: "#3776AB",
 	},
 	{
@@ -98,7 +98,7 @@ export const skillsData: Skill[] = [
 		icon: "logos:flask",
 		category: "backend",
 		level: "intermediate",
-		experience: { years: 0, months: 8 },
+		experience: { years: 0, months: 3 },
 		color: "#000000",
 	},
 	{
@@ -107,8 +107,8 @@ export const skillsData: Skill[] = [
 		description: "Modern, fast web framework for building APIs with Python based on standard Python type hints.",
 		icon: "simple-icons:fastapi",
 		category: "backend",
-		level: "intermediate",
-		experience: { years: 0, months: 6 },
+		level: "beginner",
+		experience: { years: 0, months: 2 },
 		color: "#009688",
 	},
 	{
@@ -117,8 +117,8 @@ export const skillsData: Skill[] = [
 		description: "Efficient programming language. Familiar with basic syntax, network programming, concurrent programming.",
 		icon: "logos:go",
 		category: "backend",
-		level: "intermediate",
-		experience: { years: 0, months: 10 },
+		level: "beginner",
+		experience: { years: 0, months: 2 },
 		color: "#00ADD8",
 	},
 	{
@@ -127,8 +127,8 @@ export const skillsData: Skill[] = [
 		description: "Fast HTTP web framework written in Go for building RESTful APIs.",
 		icon: "logos:go",
 		category: "backend",
-		level: "intermediate",
-		experience: { years: 0, months: 8 },
+		level: "beginner",
+		experience: { years: 0, months: 2 },
 		color: "#00ADD8",
 	},
 	{
@@ -137,8 +137,8 @@ export const skillsData: Skill[] = [
 		description: "The fantastic ORM library for Golang, providing a developer-friendly way to interact with databases.",
 		icon: "logos:go",
 		category: "backend",
-		level: "intermediate",
-		experience: { years: 0, months: 8 },
+		level: "beginner",
+		experience: { years: 0, months: 2 },
 		color: "#00ADD8",
 	},
 	{
@@ -148,7 +148,7 @@ export const skillsData: Skill[] = [
 		icon: "logos:c",
 		category: "backend",
 		level: "beginner",
-		experience: { years: 0, months: 6 },
+		experience: { years: 0, months: 3 },
 		color: "#A8B9CC",
 	},
 
@@ -159,8 +159,8 @@ export const skillsData: Skill[] = [
 		description: "Popular open-source relational database management system.",
 		icon: "logos:mysql-icon",
 		category: "database",
-		level: "intermediate",
-		experience: { years: 0, months: 10 },
+		level: "beginner",
+		experience: { years: 0, months: 3 },
 		color: "#4479A1",
 	},
 	{
@@ -169,8 +169,8 @@ export const skillsData: Skill[] = [
 		description: "High-performance in-memory data structure store, used as database and cache.",
 		icon: "logos:redis",
 		category: "database",
-		level: "intermediate",
-		experience: { years: 0, months: 8 },
+		level: "beginner",
+		experience: { years: 0, months: 2 },
 		color: "#DC382D",
 	},
 
@@ -182,7 +182,7 @@ export const skillsData: Skill[] = [
 		icon: "logos:git-icon",
 		category: "tools",
 		level: "intermediate",
-		experience: { years: 0, months: 12 },
+		experience: { years: 0, months: 3 },
 		color: "#F05032",
 	},
 	{
@@ -191,8 +191,8 @@ export const skillsData: Skill[] = [
 		description: "Open-source operating system. Familiar with command line operations.",
 		icon: "logos:linux-tux",
 		category: "tools",
-		level: "intermediate",
-		experience: { years: 0, months: 10 },
+		level: "beginner",
+		experience: { years: 0, months: 4 },
 		color: "#FCC624",
 	},
 	{
@@ -201,8 +201,8 @@ export const skillsData: Skill[] = [
 		description: "Containerization platform for application deployment and environment management.",
 		icon: "logos:docker-icon",
 		category: "tools",
-		level: "intermediate",
-		experience: { years: 0, months: 8 },
+		level: "beginner",
+		experience: { years: 0, months: 2 },
 		color: "#2496ED",
 	},
 	{
@@ -211,8 +211,8 @@ export const skillsData: Skill[] = [
 		description: "API development and testing tool for designing, testing, and documenting APIs.",
 		icon: "logos:postman-icon",
 		category: "tools",
-		level: "intermediate",
-		experience: { years: 0, months: 8 },
+		level: "beginner",
+		experience: { years: 0, months: 3 },
 		color: "#FF6C37",
 	},
 	{
@@ -222,7 +222,7 @@ export const skillsData: Skill[] = [
 		icon: "logos:visual-studio-code",
 		category: "tools",
 		level: "intermediate",
-		experience: { years: 0, months: 12 },
+		experience: { years: 0, months: 4 },
 		color: "#007ACC",
 	},
 	{
@@ -232,7 +232,7 @@ export const skillsData: Skill[] = [
 		icon: "material-symbols:code",
 		category: "tools",
 		level: "intermediate",
-		experience: { years: 0, months: 6 },
+		experience: { years: 0, months: 2 },
 		color: "#000000",
 	},
 	{
@@ -242,7 +242,7 @@ export const skillsData: Skill[] = [
 		icon: "material-symbols:security",
 		category: "tools",
 		level: "beginner",
-		experience: { years: 0, months: 4 },
+		experience: { years: 0, months: 2 },
 		color: "#FF6B00",
 	},
 	{
@@ -252,7 +252,7 @@ export const skillsData: Skill[] = [
 		icon: "material-symbols:bug-report",
 		category: "tools",
 		level: "beginner",
-		experience: { years: 0, months: 4 },
+		experience: { years: 0, months: 2 },
 		color: "#4A90E2",
 	},
 
@@ -264,7 +264,7 @@ export const skillsData: Skill[] = [
 		icon: "material-symbols:psychology",
 		category: "other",
 		level: "beginner",
-		experience: { years: 0, months: 4 },
+		experience: { years: 0, months: 3 },
 		color: "#1A1A1A",
 	},
 	{
@@ -274,7 +274,7 @@ export const skillsData: Skill[] = [
 		icon: "material-symbols:auto-awesome",
 		category: "other",
 		level: "beginner",
-		experience: { years: 0, months: 4 },
+		experience: { years: 0, months: 3 },
 		color: "#1C3C3C",
 	},
 	{
